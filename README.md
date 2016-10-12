@@ -15,3 +15,5 @@ What was the height of the tallest ladder you've ever climbed? If you don't know
 What is the highest number of steps you've taken on a ladder?
 
 Would you rather climb a metal ladder or a wooden one?
+
+Wooden
